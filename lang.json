@@ -1,6 +1,6 @@
 {
   "vi": {
-    "btn": "English",
+    "langBtn": "English",
     "heroTitle": "Xin chào, Tôi là Lâm Song Toàn",
     "heroSub": "Lập trình viên",
     "titleAbout": "Giới Thiệu",
@@ -8,7 +8,7 @@
     "titleSkills": "Kỹ Năng"
   },
   "en": {
-    "btn": "日本語",
+    "langBtn": "日本語",
     "heroTitle": "Hi, I am Lam Song Toan",
     "heroSub": "Developer",
     "titleAbout": "About Me",
@@ -16,7 +16,7 @@
     "titleSkills": "Skills"
   },
   "ja": {
-    "btn": "Tiếng Việt",
+    "langBtn": "Tiếng Việt",
     "heroTitle": "こんにちは、LST です",
     "heroSub": "開発者",
     "titleAbout": "自己紹介",
