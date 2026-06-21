@@ -1,0 +1,26 @@
+{
+  "vi": {
+    "btn": "English",
+    "heroTitle": "Xin chào, Tôi là Lâm Song Toàn",
+    "heroSub": "Lập trình viên",
+    "titleAbout": "Giới Thiệu",
+    "textAbout": "Tôi là một người đam mê công nghệ và thích xây dựng các sản phẩm kỹ thuật số.",
+    "titleSkills": "Kỹ Năng"
+  },
+  "en": {
+    "btn": "日本語",
+    "heroTitle": "Hi, I am Lam Song Toan",
+    "heroSub": "Developer",
+    "titleAbout": "About Me",
+    "textAbout": "I am passionate about technology and digital creation.",
+    "titleSkills": "Skills"
+  },
+  "ja": {
+    "btn": "Tiếng Việt",
+    "heroTitle": "こんにちは、LST です",
+    "heroSub": "開発者",
+    "titleAbout": "自己紹介",
+    "textAbout": "私はテクノロジーとデジタルクリエイションに情熱を注いでいます。",
+    "titleSkills": "スキル"
+  }
+}
